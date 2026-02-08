@@ -70,10 +70,12 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [iNav4u](https://www.inav4u.com) - **Zora** integrated monitoring, navigation, dashboards.
 - [Maretron](https://www.maretron.com) - Integrated monitoring and visualization, NMEA bridges and sensors.
 - [Onwa](https://www.onwamarine.com/NMEA_Devices.html) - NMEA converters and multiplexers, and general marine electronics.
+- [OpenMarine](https://openmarine.net) - NMEA [MacArthur HAT](https://macarthur-hat-documentation.readthedocs.io)for Raspberry PI with OpenPlotter.
 - [Orca](https://getorca.com/orca-core/) - Data hub for NMEA, auto-pilot, radar with chart plotter and remote monitoring.
 - [PredictWind DataHub](https://www.predictwind.com/datahub) - Data logging, remote monitoring, internet data, NMEA and auto-pilot interface.
 - [Quark](https://www.quark-elec.com) - NMEA devices, sensors, internet gateways, gauges and remote monitoring.
 - [Shipmodul](https://shipmodul.com) - NMEA/Seatalk multiplexers and LAN gateways.
+- [SK Pang Electronics](https://www.skpang.co.uk) - Raspberry Pi boards and HATs for CAN-Bus integration, NMEA 2000 simulators, GPS modules, LCD displays.
 - [Vircru](https://www.vircru.com) - Remote boat monitoring with mobile app.
 - [Yacht Devices](https://www.yachtd.com) - NMEA bridges, gateways and sensors.
 - [Yakbitz](https://yakbitz.com) - Seatalk, NMEA, AIS and Autopilot interfaces.
