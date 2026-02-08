@@ -34,9 +34,10 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Vlogs
 - [Boating with the Baileys](https://www.youtube.com/@BoatingwiththeBaileys) -  Electrical and electronics projects on a 2000s Bavaria 36, including SignalK, KIP, Node-RED, OpenPlotter and SensESP.
+- [Out Chasing Stars](https://www.youtube.com/@OutChasingStars) - OpenCPN and general boat electrics, electronics.
+- [Pacific Yacht Systems](https://www.youtube.com/@PacificYachtSystems) - Last active in 2023, large back catalogue of instructional videos on marine electrics, electronics and networking.
 - [Raspberry for Sailing](https://www.youtube.com/@Sir-Real) - OpenPlotter, SignalK, KIP projects on Raspberry Pi.
 - [SV Apres](https://www.youtube.com/playlist?list=PLqHa5JFKHBLwxeCuc6uaa5TzAXVeqTyiD) - OpenPlotter, NMEA 2000 and general boat tech.
-- [Out Chasing Stars](https://www.youtube.com/@OutChasingStars) - OpenCPN and general boat electrics, electronics.
 
 ## Charts
 
@@ -99,6 +100,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Orca](https://getorca.com/orca-core/) - Data hub for NMEA, auto-pilot, radar with chart plotter and remote monitoring.
 - [PredictWind DataHub](https://www.predictwind.com/datahub) - Data logging, remote monitoring, internet data, NMEA and auto-pilot interface.
 - [Quark](https://www.quark-elec.com) - NMEA devices, sensors, internet gateways, gauges and remote monitoring.
+- [Safiery](https://safiery.com/marine-new/) - Digital switching, monitoring, Victron and NMEA integration.
 - [Shipmodul](https://shipmodul.com) - NMEA/Seatalk multiplexers and LAN gateways.
 - [SK Pang Electronics](https://www.skpang.co.uk) - Raspberry Pi boards and HATs for CAN-Bus integration, NMEA 2000 simulators, GPS modules, LCD displays.
 - [Vircru](https://www.vircru.com) - Remote boat monitoring with mobile app.
@@ -122,6 +124,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Education
 
+- [Attainable Adventure Cruising](https://www.morganscloud.com) - Articles on [electronics and software](https://www.morganscloud.com/category/electronics-software/) and [Navigation and Marine Electronics](https://www.morganscloud.com/category/navigation/book-navigation-electronics/) on-line book.
 - [Boat HowTo](https://boathowto.com) - Online courses and articles for marine electrics, NMEA networking and engines.
 - [Mr Lopez](https://www.mrlopezclasses.com) - Books and online classes on marine electrics, Spanish and English.
 - [Complete Guide to NMEA 2000](https://actisense.com/wp-content/uploads/2021/08/Complete-Guide-to-NMEA-2000_Revision_4_2021.pdf?srsltid=AfmBOopbKAMRB_k69cbVFGMFN8OFfBZZpsFW1LwaudO_ohgQ0KbHko7d) - Free tutorial and reference from Actisense.
