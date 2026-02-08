@@ -70,7 +70,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [pynmea2](https://github.com/Knio/pynmea2) - NMEA 0183 sentence parser.
 - [nmeasim](https://gitlab.com/nmeasim/nmeasim) - NMEA/GNSS receiver simulator.
 
-#### Rust
+#### Rust
 
 - [nmea crate](https://crates.io/crates/nmea) - NMEA 0183 sentence parser.
 
