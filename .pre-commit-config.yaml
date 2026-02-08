@@ -13,7 +13,10 @@ repos:
           - --skip="./.*,*.csv,*.json"
           - --quiet-level=2
         exclude_types: [csv, json]
-
+  - repo: https://github.com/pengqun/pre-commit-hooks
+    rev: v1.1.0
+    hooks:
+      - id: awesome-lint
   - repo: https://github.com/lycheeverse/lychee.git
     rev: v0.15.1
     hooks:
