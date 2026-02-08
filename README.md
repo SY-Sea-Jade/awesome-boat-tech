@@ -72,7 +72,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 #### Rust
 
-- [nmea](https://crates.io/crates/nmea) - NMEA 0183 sentence parser.
+- [nmea crate](https://crates.io/crates/nmea) - NMEA 0183 sentence parser.
 
 #### Swift
 
