@@ -65,6 +65,11 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [NMEA2000](https://github.com/ttlappalainen/NMEA2000) - Arduino NMEA 2000 interfacing library used in several commercial products.
 - [NMEA2000_esp32](https://github.com/ttlappalainen/NMEA2000_esp32) - ESP32 objects for use with NMEA2000 library.
 
+#### Go
+
+- [go-nmea](https://github.com/adrianmo/go-nmea) - NMEA 0183 sentence parser.
+- [nmea0183](https://github.com/martinmarsh/nmea0183) - NMEA 0183 sentence parser, with Actisense integration examples.
+
 #### Python
 
 - [pynmea2](https://github.com/Knio/pynmea2) - NMEA 0183 sentence parser.
