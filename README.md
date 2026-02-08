@@ -58,6 +58,26 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [PyPilot](https://pypilot.org) - Python based auto-pilot.
 - [Sens32](https://signalk.org/SensESP/) - ESP32 based sensors for SignalK.
 
+### NMEA
+
+#### ESP32
+
+- [NMEA2000](https://github.com/ttlappalainen/NMEA2000) - Arduino NMEA 2000 interfacing library used in several commercial products.
+- [NMEA2000_esp32](https://github.com/ttlappalainen/NMEA2000_esp32) - ESP32 objects for use with NMEA2000 library.
+
+#### Python
+
+- [pynmea2](https://github.com/Knio/pynmea2) - NMEA 0183 sentence parser.
+- [nmeasim](https://gitlab.com/nmeasim/nmeasim) - NMEA/GNSS receiver simulator.
+
+#### Rust
+
+- [nmea](https://crates.io/crates/nmea) - NMEA 0183 sentence parser.
+
+#### Swift
+
+- [NMEAParser](https://github.com/sindreoyen/NMEAParser) - iOS and macOS NMEA 0183 parser and validator.
+
 ## Hardware Vendors
 
 - [Actisense](https://actisense.com) - NMEA bridges and gateways.
