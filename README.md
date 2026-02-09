@@ -62,6 +62,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [PyPilot](https://pypilot.org) - Python based auto-pilot.
 - [Sens32](https://signalk.org/SensESP/) - ESP32 based sensors for SignalK.
 - [SignalK](https://signalk.org) - Node.js pluggable framework for boat data distribution and analysis.
+- [Smart Boat Innovations](https://smartboatinnovations.com) - Videos and articles on building a Raspberry Pi and Home Assistant based smart boat.
 - [Venus](https://github.com/victronenergy/venus) - Victron Energy's open source OS for their GX products, available for self-hosting on Raspberry Pi.
 
 ### NMEA
@@ -148,6 +149,8 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 *All active as of 2026*
 
 - [boatdesign.net](https://www.boatdesign.net/forums/onboard-electronics-controls/) - Electronics and Controls forum.
+- [NMEA 2000 Support Group](https://www.facebook.com/groups/380510566227511/) - Public Facebook group.
+- [NMEA 2000 Technical Forum](https://www.facebook.com/groups/699562237256639/) - Private Facebook group.
 - [OpenMarine](https://forum.openmarine.net) - Marine electronics and networking, focus on Macarthur HAT, PyPilot, OpenPlotter and Node RED.
 - [Panbo](https://panbo.com/marineelectronicsforum/) -  Marine electronics and networking.
 - [Raspberry Pi for Boats](https://www.facebook.com/groups/1666364153609573/) - Private Facebook group.
