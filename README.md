@@ -36,6 +36,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Seabits](https://seabits.com) - Pacific North West, Kristen 50 and Symbol Pilothouse motor yachts, SignalK, dashboards, Victron.
 - [SY Sea Jade Boatstuff](https://sy-sea-jade.github.io/boatstuff/) - Checklists, equipment choices and other tabular data.
 - [The Low Cost Sailor](https://www.thelowcostsailor.com) - Boat tech news and articles. English, French, Spanish.
+- [Zapped Myself](https://zappedmyself.com/projects/nmea2000/) - NMEA 2000, AIS, ESP32 projects.
 
 ## Vlogs
 - [Boating with the Baileys](https://www.youtube.com/@BoatingwiththeBaileys) -  Electrical and electronics projects on a 2000s Bavaria 36, including SignalK, KIP, Node-RED, OpenPlotter and SensESP.
@@ -53,6 +54,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 - [Bareboat Necessities](https://bareboat-necessities.github.io/my-bareboat/bareboat-os.html) - All in one operating system, incorporating OpenCPN, SignalK, PyPilot etc.
 - [CAN Boat](https://github.com/canboat/canboat) - NMEA 2000 and NMEA 0183 CLI utilities.
+- [ESP32 NMEA2000](https://github.com/wellenvogel/esp32-nmea2000) - NMEA 2000 integration with USB, Wifi, 0183 on M5 Atom CAN and compatible with other ESP32.
 - [GWeatherRouting](https://gweatherrouting.org) - Navigation and automated routing, Python/GTK4.
 - [KPlex](https://www.stripydog.com/kplex/) - NMEA0183 multiplexer for Linux, Unix, macOS and OpenWRT.
 - [NMEA2000_ais_wifi_gw](https://github.com/sailingfree/NMEA2000_ais_wifi_gw) -  ESP32 based NMEA 2000 gateway.
@@ -107,12 +109,15 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Garmin](https://www.garmin.com/) - Sensors, plotters, radars, sonar, displays, auto-pilots, charts, cameras and integration.
 - [HAT Labs](https://hatlabs.fi) - Open Source NMEA 2000, ESP32 and RasPi hardware.
 - [Hello Sailor](https://hello-sailor.co.uk) - LTE/SMS based remote boat monitoring, subscription-free.
+- [Humminbird](https://humminbird.johnsonoutdoors.com/us) - Plotter, sonar, charts, apps, One-Boat network.
 - [Impulse](https://www.impulse-embedded.co.uk/solutions/industrial-computing-solutions/marine-and-subsea) - Marine PCs and displays.
 - [iNav4u](https://www.inav4u.com) - **Zora** integrated monitoring, navigation, dashboards.
 - [LCJ Capteurs](https://lcjcapteurs.com/en/categorie-girouette-anemometres-capteur-vent/marine-en/) - Wind and weather instruments, StatMETEO wind data recording software.
+- [Lowrance](https://www.lowrance.com) - Plotters, transducers, charts, trolling motors.
 - [Luissa 351](https://www.ebay.co.uk/usr/luissa.351) - NMEA gateways, multiplexers and Wifi integration. Portugal selling internationally through eBay.
 - [Maretron](https://www.maretron.com) - Integrated monitoring and visualization, NMEA bridges and sensors.
 - [NASA Marine](https://www.nasamarine.com) - Instruments, monitors, AIS, displays.
+- [Navigation Laptops](https://navigationlaptops.com) - Laptops setup for navigation with instrument packages.
 - [Onwa](https://www.onwamarine.com/NMEA_Devices.html) - NMEA converters and multiplexers, and general marine electronics.
 - [OpenMarine](https://openmarine.net) - NMEA [MacArthur HAT](https://macarthur-hat-documentation.readthedocs.io)for Raspberry PI with OpenPlotter.
 - [Orca](https://getorca.com/orca-core/) - Data hub for NMEA, auto-pilot, radar with chart plotter and remote monitoring.
@@ -122,6 +127,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Safiery](https://safiery.com/marine-new/) - Digital switching, monitoring, Victron and NMEA integration.
 - [Shipmodul](https://shipmodul.com) - NMEA/Seatalk multiplexers and LAN gateways.
 - [Simrad](https://www.simrad-yachting.com) - Plotters, auto-pilots, sonar, radar, AIS, VHF, transducers, charts, apps.
+- [Siren Marine](https://sirenmarine.com/) - Remote boat monitoring.
 - [SK Pang Electronics](https://www.skpang.co.uk) - Raspberry Pi boards and HATs for CAN-Bus integration, NMEA 2000 simulators, GPS modules, LCD displays.
 - [Tinley](https://www.tinleyelectronics.com/) - NMEA interfaces, sensors, multiplexers, converters.
 - [Veratron](https://veratron.com/pages/marine) - NMEA instruments, gateways and sensors, displays.
@@ -142,6 +148,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Sail Logger](https://saillogger.com) - Logbook for mobiles, with NMEA integration.
 - [SailTrack](https://www.angelnav.co.uk) - **AngelNav** plotter app for mobile and PC with charts and traditional charting techniques and NMEA integration.
 - [SavvyNavvy](https://www.savvy-navvy.com) - Plotter app for mobile with integrated weather, AIS, charting and NMEA integration.
+- [Vessel Vault](https://vesselvault.app) - Boat maintenance management.
 
 ## Consultants
 
