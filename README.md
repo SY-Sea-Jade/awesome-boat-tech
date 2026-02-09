@@ -16,6 +16,7 @@ that support open networks such as Shipmodul, Yacht Devices, Actisense, Digital 
 - [Open Source Projects](#open-source-projects)
 - [Hardware Vendors](#hardware-vendors)
 - [Software Vendors](#software-vendors)
+- [Consultants](#consultants)
 - [Forums](#forums)
 - [Education](#education)
 - [News](#news)
@@ -103,6 +104,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Safiery](https://safiery.com/marine-new/) - Digital switching, monitoring, Victron and NMEA integration.
 - [Shipmodul](https://shipmodul.com) - NMEA/Seatalk multiplexers and LAN gateways.
 - [SK Pang Electronics](https://www.skpang.co.uk) - Raspberry Pi boards and HATs for CAN-Bus integration, NMEA 2000 simulators, GPS modules, LCD displays.
+- [Tinley](https://www.tinleyelectronics.com/) - NMEA interfaces, sensors, multiplexers, converters.
 - [Vircru](https://www.vircru.com) - Remote boat monitoring with mobile app.
 - [Yacht Devices](https://www.yachtd.com) - NMEA bridges, gateways and sensors.
 - [Yakbitz](https://yakbitz.com) - Seatalk, NMEA, AIS and Autopilot interfaces.
@@ -113,7 +115,13 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Meltemus](https://www.meltemus.com/index.php/en/) - Navigation, weather and charts for Android, iOS, Windows, macOS and Linux. **qtVLM** weather and chart viewer free on some platforms.
 - [Maintenance ROS](https://maintenanceros.com) - Boat maintenance management.
 - [Navstation](https://navstation.net) - **MacENCx64Integrate** plotting, navigation, charts and NMEA integration for macOS.
+- [NMEA 2000 Solutions](https://www.nmea2000solutions.com) - NMEA BridgeBuilder and NMEA Gateway packages, consultancy.
 - [Sail Logger](https://saillogger.com) - Logbook for mobiles, with NMEA integration.
+
+## Consultants
+
+- [Nautibus](https://nautibus.de) - NMEA 2000 design, testing, installation. German and English.
+- [Seatech Systems](https://seatech.systems) - Marine electronics consultancy, with free advice articles on marine internet.
 
 ## Forums
 *All active as of 2026*
@@ -124,11 +132,18 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Education
 
+- [Actisense Hub](https://actisense.com/actisense-hub/) - Free tutorials, online books and reference from Actisense.
 - [Attainable Adventure Cruising](https://www.morganscloud.com) - Articles on [electronics and software](https://www.morganscloud.com/category/electronics-software/) and [Navigation and Marine Electronics](https://www.morganscloud.com/category/navigation/book-navigation-electronics/) on-line book.
 - [Boat HowTo](https://boathowto.com) - Online courses and articles for marine electrics, NMEA networking and engines.
+- [GPS NMEA 0183 Messaging Protocol 101](https://docs.arduino.cc/learn/communication/gps-nmea-data-101/) - Arduino tutorial with general applicability.
+- [Meco Training](https://www.mecotraining.com) - On-line marine electrics and electronics courses.
 - [Mr Lopez](https://www.mrlopezclasses.com) - Books and online classes on marine electrics, Spanish and English.
-- [Complete Guide to NMEA 2000](https://actisense.com/wp-content/uploads/2021/08/Complete-Guide-to-NMEA-2000_Revision_4_2021.pdf?srsltid=AfmBOopbKAMRB_k69cbVFGMFN8OFfBZZpsFW1LwaudO_ohgQ0KbHko7d) - Free tutorial and reference from Actisense.
+- [NMEA Certification and Training](https://www.nmea.org/training.html) - Official NMEA organization courses.
+- [NMEA Conference and Expo](https://expo.nmea.org) - Annual vendor event in USA.
+- [Ocean Science Technology](https://www.oceansciencetechnology.com/suppliers/data-communication-systems/) - NMEA 0183 and 2000 tutorials.
+- [Seably](https://www.seably.com/explore/topics/electronics-2) - Electronics courses, including Actisense accreditation.
 
 ## News
 
+- [Actisense Media](https://actisense.com/media/) - Vendor blog, with self-help and industry news.
 - [Panbo](https://panbo.com) - Marine tech news.
