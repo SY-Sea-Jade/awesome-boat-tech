@@ -7,6 +7,7 @@
 Boat tech includes NMEA 0183, NMEA 2000, Seatalk 1 and NG, OpenCPN, SignalK, Kip, OpenSeamap and the various vendor products
 that support open networks such as Shipmodul, Yacht Devices, Actisense, Digital Yacht etc.
 
+
 ## Contents
 
 <!--lint disable double-link-->
@@ -173,3 +174,5 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 - [Actisense Media](https://actisense.com/media/) - Vendor blog, with self-help and industry news.
 - [Panbo](https://panbo.com) - Marine tech news.
+
+(DISCLAIMER: the term 'awesome' is used here in its American sense, and because 'awesome list' is a thing, and not in its British sense of actually involving awe)
