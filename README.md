@@ -124,7 +124,7 @@ See [NMEA Wifi Options](https://sy-sea-jade.github.io/boatstuff/nmea_wifi) for c
 - [Yacht Devices](https://www.yachtd.com) - NMEA bridges, gateways and sensors.
 - [Yakbitz](https://yakbitz.com) - Seatalk, NMEA, AIS and Autopilot interfaces.
 
-### Marine Components
+### Marine Components
 
 - [Beetronics](https://www.beetronics.co.uk/c-marine?_gl=1*1f0b82j*_up*MQ..*_gs*MQ..&gbraid=0AAAAADm9gnpX9qEe0DYsgTxrXqGaGG_4d) - Marine monitors and touchscreens.
 - [Bluestone](https://www.bluestonetechnology.co.uk/) - Marine LCD displays.
