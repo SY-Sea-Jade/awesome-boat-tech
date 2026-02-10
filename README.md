@@ -118,13 +118,14 @@ See [NMEA Wifi Options](https://sy-sea-jade.github.io/boatstuff/nmea_wifi) for c
 - [Onwa](https://www.onwamarine.com/NMEA_Devices.html) - NMEA converters and multiplexers, and general marine electronics.
 - [OpenMarine](https://openmarine.net) - NMEA [MacArthur HAT](https://macarthur-hat-documentation.readthedocs.io)for Raspberry PI with OpenPlotter.
 - [Quark](https://www.quark-elec.com) - NMEA devices, sensors, internet gateways, gauges and remote monitoring.
+- [Rosuku](https://www.rusoku.com) - TouCAN Marine NMEA 2000 USB adaptor.
 - [Shipmodul](https://shipmodul.com) - NMEA/Seatalk multiplexers and LAN gateways.
 - [SK Pang Electronics](https://www.skpang.co.uk) - Raspberry Pi boards and HATs for CAN-Bus integration, NMEA 2000 simulators, GPS modules, LCD displays.
 - [Tinley](https://www.tinleyelectronics.com/) - NMEA interfaces, sensors, multiplexers, converters.
 - [Yacht Devices](https://www.yachtd.com) - NMEA bridges, gateways and sensors.
 - [Yakbitz](https://yakbitz.com) - Seatalk, NMEA, AIS and Autopilot interfaces.
 
-### Marine Components
+### Marine PCs and Components
 
 - [Beetronics](https://www.beetronics.co.uk/c-marine?_gl=1*1f0b82j*_up*MQ..*_gs*MQ..&gbraid=0AAAAADm9gnpX9qEe0DYsgTxrXqGaGG_4d) - Marine monitors and touchscreens.
 - [Bluestone](https://www.bluestonetechnology.co.uk/) - Marine LCD displays.
@@ -148,6 +149,7 @@ See [NMEA Wifi Options](https://sy-sea-jade.github.io/boatstuff/nmea_wifi) for c
 - [Navigation Laptops](https://navigationlaptops.com) - Laptops setup for navigation with instrument packages.
 - [Orca](https://getorca.com/orca-core/) - Data hub for NMEA, auto-pilot, radar with chart plotter and remote monitoring.
 - [PredictWind DataHub](https://www.predictwind.com/datahub) - Data logging, remote monitoring, internet data, NMEA and auto-pilot interface.
+- [Renogy](https://www.renogy.com/) - Power management and monitoring.
 - [Siren Marine](https://sirenmarine.com/) - Remote boat monitoring.
 - [Vesscomm](https://vesscomm.com) - Mobile data (2G/4G) based monitoring hubs and mobile apps.
 - [Victron](https://www.victronenergy.com) - Power devices with associated monitoring, integration, power sensors, displays.
@@ -173,6 +175,7 @@ See [NMEA Wifi Options](https://sy-sea-jade.github.io/boatstuff/nmea_wifi) for c
 - [SailTrack](https://www.angelnav.co.uk) - **AngelNav** plotter app for mobile and PC with charts and traditional charting techniques and NMEA integration.
 - [SavvyNavvy](https://www.savvy-navvy.com) - Plotter app for mobile with integrated weather, AIS, charting and NMEA integration.
 - [Vessel Vault](https://vesselvault.app) - Boat maintenance management.
+- [WilhemSK](https://www.wilhelmsk.com) - SignalK dashboard app for iPhone, iPad, macOS, Apple Watch and Apple TV.
 
 ## Consultants
 
