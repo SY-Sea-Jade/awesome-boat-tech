@@ -180,6 +180,7 @@ See [NMEA Wifi Options](https://sy-sea-jade.github.io/boatstuff/nmea_wifi) for c
 - [Orca](https://getorca.com/orca-core/) - Data hub for NMEA, auto-pilot, radar with chart plotter and remote monitoring.
 - [PredictWind DataHub](https://www.predictwind.com/datahub) - Data logging, remote monitoring, internet data, NMEA and auto-pilot interface.
 - [Renogy](https://www.renogy.com/) - Power management and monitoring.
+- [Sensar Marine](https://sensarmarine.com) - Subscription-based remote monitoring with app, SMS and NMEA integration.
 - [Siren Marine](https://sirenmarine.com/) - Remote boat monitoring.
 - [Vesscomm](https://vesscomm.com) - Mobile data (2G/4G) based monitoring hubs and mobile apps.
 - [Victron](https://www.victronenergy.com) - Power devices with associated monitoring, integration, power sensors, displays.
