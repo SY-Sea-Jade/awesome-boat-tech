@@ -60,15 +60,18 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [BlueBridge](https://github.com/miniwinwm/BlueBridge) - Android app integration with NMEA data via MQTT and Bluetooth.
 - [BrineOMatic](https://github.com/hoeken/brineomatic) - Watermaker controller for ESP32.
 - [CAN Boat](https://github.com/canboat/canboat) - NMEA2000 and NMEA 0183 CLI utilities.
+- [d3kOS](https://github.com/SkipperDon/d3kOS) - Raspberry Pi based navigation and automation platform.
 - [GWeatherRouting](https://gweatherrouting.org) - Navigation and automated routing, Python/GTK4.
 - [Kip](https://github.com/mxtommy/Kip) - SignalK dashboard / instrument display.
 - [KPlex](https://www.stripydog.com/kplex/) - NMEA0183 multiplexer for Linux, Unix, macOS and OpenWRT.
 - [Marinux](https://marinux.tuxfamily.org) - *Muplex* NMEA multiplexer, *OSD Depth* echo-sounder display.
+- [nm2k](https://github.com/svalentinf/nm2k) - NMEA0183 and NMEA2000 web based visualization and analysis.
 - [OpenCPN](https://opencpn.org) - Chart Plotter for macOS, Windows, Linux, Raspi and Android.
 - [Open Boat Projects](https://open-boat-projects.org/en/) - DIY hardware and open source projects, English and German.
 - [OpenPlotter](https://openplotter.readthedocs.io/) - Combined project of SignalK, OpenCPN, PyPilot etc.
 - [PyGPSClient](https://github.com/semuconsulting/PyGPSClient) - Python GPS/GNSS testing, diagnostic and configuration, incl NMEA integration.
 - [PyPilot](https://pypilot.org) - Python based auto-pilot.
+- [ROB](https://github.com/OlivierLD/ROB) - Raspberry Pi On Board, Java and Python navigation utilities.
 - [SignalK](https://signalk.org) - Node.js pluggable framework for boat data distribution and analysis.
 - [Smart Boat Innovations](https://smartboatinnovations.com) - Videos and articles on building a Raspberry Pi and Home Assistant based smart boat.
 - [TwoCan](https://github.com/TwoCanPlugIn/TwoCanPlugIn) - NMEA2000 integration for OpenCPN.
@@ -77,6 +80,10 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ### NMEA
 
 See also [OpenCPN NMEA Tools](https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:supplementary_software:nmea_instruments).
+
+#### C and C++
+
+- [minmea](https://github.com/kosma/minmea) - GPS NMEA0183 parser in C.
 
 #### C#
 
@@ -146,6 +153,7 @@ See [NMEA Wifi Options](https://sy-sea-jade.github.io/boatstuff/nmea_wifi) for c
 
 ### Marine PCs and Components
 
+- [Austral](https://austral-eng.com/) - Marinized Raspberr Pi, sensors, apps including racing auto-pilot.
 - [Beetronics](https://www.beetronics.co.uk/c-marine?_gl=1*1f0b82j*_up*MQ..*_gs*MQ..&gbraid=0AAAAADm9gnpX9qEe0DYsgTxrXqGaGG_4d) - Marine monitors and touchscreens.
 - [Bluestone](https://www.bluestonetechnology.co.uk/) - Marine LCD displays.
 - [BVM](https://www.bvm.co.uk/industries-2/transport-solutions/marine-solutions/) - Marine displays and PCs.
