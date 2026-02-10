@@ -58,6 +58,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [CAN Boat](https://github.com/canboat/canboat) - NMEA 2000 and NMEA 0183 CLI utilities.
 - [ESP32 NMEA2000](https://github.com/wellenvogel/esp32-nmea2000) - NMEA 2000 integration with USB, Wifi, 0183 on M5 Atom CAN and compatible with other ESP32.
 - [GWeatherRouting](https://gweatherrouting.org) - Navigation and automated routing, Python/GTK4.
+- [Kip](https://github.com/mxtommy/Kip) - SignalK dashboard / instrument display.
 - [KPlex](https://www.stripydog.com/kplex/) - NMEA0183 multiplexer for Linux, Unix, macOS and OpenWRT.
 - [NMEA2000_ais_wifi_gw](https://github.com/sailingfree/NMEA2000_ais_wifi_gw) -  ESP32 based NMEA 2000 gateway.
 - [OpenCPN](https://opencpn.org) - Chart Plotter for macOS, Windows, Linux, Raspi and Android.
