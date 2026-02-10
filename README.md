@@ -56,6 +56,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ## Open Source Projects
 
 - [AIS-catcher](https://github.com/jvde-github/AIS-catcher) - AIS receiver for software defined radio (SDR) dongles.
+- [AvNav](https://www.wellenvogel.net/software/avnav/docs/beschreibung.html?lang=en) - Plotter with Android app and SignalK integration. German with English docs.
 - [Bareboat Necessities](https://bareboat-necessities.github.io/my-bareboat/bareboat-os.html) - All in one operating system, incorporating OpenCPN, SignalK, PyPilot etc.
 - [BlueBridge](https://github.com/miniwinwm/BlueBridge) - Android app integration with NMEA data via MQTT and Bluetooth.
 - [BrineOMatic](https://github.com/hoeken/brineomatic) - Watermaker controller for ESP32.
@@ -134,6 +135,7 @@ See [NMEA Wifi Options](https://sy-sea-jade.github.io/boatstuff/nmea_wifi) for c
 - [Copperhill](https://copperhilltech.com) - Raspberry PI and ESP32 NMEA2000 boards, simulators, HATs.
 - [Digital Yacht](https://digitalyacht.co.uk) - NMEA multiplexers, sensors, gateways plus AIS and 4G/5G.
 - [Gadget Pool](http://www.gadgetpool.de) - German vendor, with English info, of NMEA and Seatalk interfaces and displays.
+- [gedad](https://www.gedad.de) - German vendor, *Marine Control Server* for NMEA0183, NMEA2000 and i2c, with SignalK support.
 - [HAT Labs](https://hatlabs.fi) - Open Source NMEA2000, ESP32 and RasPi hardware.
 - [Luissa 351](https://www.ebay.co.uk/usr/luissa.351) - NMEA gateways, multiplexers and Wifi integration. Portugal selling internationally through eBay.
 - [Matsutec](http://www.matsutec.cn) - Chinese supplier of NMEA hardware, testers, gateways plus AIS and auto-pilots.
