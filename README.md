@@ -29,8 +29,10 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Blogs
 
+- [BoatHackers](https://boathackers.com) - Leopard 45, projects with Home Assistant, Starlink, NMEA2000, Victron.
 - [Catalina 320 Log](https://www.yachtslog.com) - Raspberry Pi, NMEA, SignalK, VBA.
 - [Cricalix](https://www.cricalix.net) - Ireland, Victoria 34, NMEA, Python, Solar, Shipmodul Miniplex.
+- [Nick Hayward](https://www.nick-hayward.co.uk/category/narrowboat/) - Narrowboat projects including Home Assistant, ESPHome, Victron.
 - [Ole W. Saastad](https://www.homelinux.no) - Raspberry Pi boat integration.
 - [Pyssel](https://pysselilivet.blogspot.com) - Boat projects and news, including Home Assistant, OpenPlotter, ESP32.
 - [Seabits](https://seabits.com) - Pacific North West, Kristen 50 and Symbol Pilothouse motor yachts, SignalK, dashboards, Victron.
@@ -53,8 +55,10 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Open Source Projects
 
+- [AIS-catcher](https://github.com/jvde-github/AIS-catcher) - AIS receiver for software defined radio (SDR) dongles.
 - [Bareboat Necessities](https://bareboat-necessities.github.io/my-bareboat/bareboat-os.html) - All in one operating system, incorporating OpenCPN, SignalK, PyPilot etc.
 - [BlueBridge](https://github.com/miniwinwm/BlueBridge) - Android app integration with NMEA data via MQTT and Bluetooth.
+- [BrineOMatic](https://github.com/hoeken/brineomatic) - Watermaker controller for ESP32.
 - [CAN Boat](https://github.com/canboat/canboat) - NMEA2000 and NMEA 0183 CLI utilities.
 - [GWeatherRouting](https://gweatherrouting.org) - Navigation and automated routing, Python/GTK4.
 - [Kip](https://github.com/mxtommy/Kip) - SignalK dashboard / instrument display.
@@ -126,6 +130,7 @@ See [NMEA Wifi Options](https://sy-sea-jade.github.io/boatstuff/nmea_wifi) for c
 - [HAT Labs](https://hatlabs.fi) - Open Source NMEA2000, ESP32 and RasPi hardware.
 - [Luissa 351](https://www.ebay.co.uk/usr/luissa.351) - NMEA gateways, multiplexers and Wifi integration. Portugal selling internationally through eBay.
 - [Matsutec](http://www.matsutec.cn) - Chinese supplier of NMEA hardware, testers, gateways plus AIS and auto-pilots.
+- [Nauti-Control](https://nauti-control.com) - Seatalk and NMEA2000 wifi bridges and remote controls.
 - [Oceanav](https://ocenav.com) - Spanish vendor, with English info, of NMEA wifi gateways and auto-pilot remote control.
 - [Onwa](https://www.onwamarine.com/NMEA_Devices.html) - NMEA converters and multiplexers, and general marine electronics.
 - [OpenMarine](https://openmarine.net) - NMEA [MacArthur HAT](https://macarthur-hat-documentation.readthedocs.io)for Raspberry PI with OpenPlotter.
@@ -146,6 +151,7 @@ See [NMEA Wifi Options](https://sy-sea-jade.github.io/boatstuff/nmea_wifi) for c
 - [BVM](https://www.bvm.co.uk/industries-2/transport-solutions/marine-solutions/) - Marine displays and PCs.
 - [Cybernet](https://www.cybernetman.com/) - Marine rackmount and mini PCs.
 - [Impulse](https://www.impulse-embedded.co.uk/solutions/industrial-computing-solutions/marine-and-subsea) - Marine PCs and displays.
+- [Marine Data Solutions](https://marinedatasolutions.com) - Satellite and mobile internet integration, *MDS Blender* marine router.
 
 ### Instruments
 
@@ -206,6 +212,7 @@ See [NMEA Wifi Options](https://sy-sea-jade.github.io/boatstuff/nmea_wifi) for c
 - [OpenMarine](https://forum.openmarine.net) - Marine electronics and networking, focus on Macarthur HAT, PyPilot, OpenPlotter and Node RED.
 - [Panbo](https://panbo.com/marineelectronicsforum/) -  Marine electronics and networking.
 - [Raspberry Pi for Boats](https://www.facebook.com/groups/1666364153609573/) - Private Facebook group.
+- [SignalK Google Group](https://groups.google.com/g/signalk) - Active as of end 2025.
 - [The Hull Truth](https://www.thehulltruth.com/marine-electronics-forum-19/) - Marine electronics forum.
 
 ## Education and Reference
