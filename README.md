@@ -62,7 +62,9 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [BrineOMatic](https://github.com/hoeken/brineomatic) - Watermaker controller for ESP32.
 - [CAN Boat](https://github.com/canboat/canboat) - NMEA2000 and NMEA 0183 CLI utilities.
 - [d3kOS](https://github.com/SkipperDon/d3kOS) - Raspberry Pi based navigation and automation platform.
+- [gpsd](https://gpsd.gitlab.io/gpsd/index.html) - GPS and AIS daemon wrapping NMEA0183 in its own simpler format. C, Python. Ubiquitous.
 - [GWeatherRouting](https://gweatherrouting.org) - Navigation and automated routing, Python/GTK4.
+- [gypsy](https://gypsy.freedesktop.org) - Multiplexer for GPS NMEA data, daemon and C library, alternative to gpsd.
 - [Kip](https://github.com/mxtommy/Kip) - SignalK dashboard / instrument display.
 - [KPlex](https://www.stripydog.com/kplex/) - NMEA0183 multiplexer for Linux, Unix, macOS and OpenWRT. ([Google Group](https://groups.google.com/g/kplex)).
 - [Marinux](https://marinux.tuxfamily.org) - *Muplex* NMEA multiplexer, *OSD Depth* echo-sounder display.
@@ -239,6 +241,7 @@ See [NMEA Wifi Options](https://sy-sea-jade.github.io/boatstuff/nmea_wifi) for c
 - [Mr Lopez](https://www.mrlopezclasses.com) - Books and online classes on marine electrics, Spanish and English.
 - [NMEA Certification and Training](https://www.nmea.org/training.html) - Official NMEA organization courses.
 - [NMEA Conference and Expo](https://expo.nmea.org) - Annual vendor event in USA.
+- [NMEA Revealed](https://gpsd.gitlab.io/gpsd/NMEA.html) - Detailed technical reference for NMEA0183, part of the gpsd project.
 - [Ocean Science Technology](https://www.oceansciencetechnology.com/suppliers/data-communication-systems/) - NMEA 0183 and 2000 tutorials.
 - [Seably](https://www.seably.com/explore/topics/electronics-2) - Electronics courses, including Actisense accreditation.
 - [Seatalk Technical Reference](http://www.thomasknauf.de/seatalk.htm) - Unofficial documentation of Seatalk 1 protocol.
