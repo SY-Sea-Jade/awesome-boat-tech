@@ -32,6 +32,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [BoatHackers](https://boathackers.com) - Leopard 45, projects with Home Assistant, Starlink, NMEA2000, Victron.
 - [Catalina 320 Log](https://www.yachtslog.com) - Raspberry Pi, NMEA, SignalK, VBA.
 - [Cricalix](https://www.cricalix.net) - Ireland, Victoria 34, NMEA, Python, Solar, Shipmodul Miniplex.
+- [Navigation Mac & Co](https://www.navigation-mac.fr) - French, with English translation. News and articles, focus on weather data, macOS and iPad navigation.
 - [Nick Hayward](https://www.nick-hayward.co.uk/category/narrowboat/) - Narrowboat projects including Home Assistant, ESPHome, Victron.
 - [Ole W. Saastad](https://www.homelinux.no) - Raspberry Pi boat integration.
 - [Pyssel](https://pysselilivet.blogspot.com) - Boat projects and news, including Home Assistant, OpenPlotter, ESP32.
@@ -216,6 +217,7 @@ See [NMEA Wifi Options](https://sy-sea-jade.github.io/boatstuff/nmea_wifi) for c
 ## Consultants
 
 - [Nautibus](https://nautibus.de) - NMEA2000 design, testing, installation. German and English.
+- [Francis Fustier](https://francis-fustier.fr) - France. Training, advice and integration. News and articles, focused on Apple products onboard.
 - [Seatech Systems](https://seatech.systems) - Marine electronics consultancy, with free advice articles on marine internet.
 - [Tweeds Marine](https://tweedsmarine.nz/) - New Zealand. Consultancy plus free articles, news and calculators online.
 
