@@ -123,11 +123,13 @@ See also [OpenCPN NMEA Tools](https://opencpn.org/wiki/dokuwiki/doku.php?id=open
 
 ### Full Integration
 - [B&G](https://www.bandg.com) - Sensors, radars, plotters, displays for racing and cruising.
+- [Furono](https://www.furunousa.com/en) - Sensors, sonar, radar, plotters, autopilots.
 - [Garmin](https://www.garmin.com/) - Sensors, plotters, radars, sonar, displays, auto-pilots, charts, cameras and integration.
 - [Humminbird](https://humminbird.johnsonoutdoors.com/us) - Plotter, sonar, charts, apps, One-Boat network.
 - [Lowrance](https://www.lowrance.com) - Plotters, transducers, charts, trolling motors.
 - [Raymarine](https://www.raymarine.com) - Sensors, radars, plotters, displays, VHF, AIS and Seatalk NG.
 - [Simrad](https://www.simrad-yachting.com) - Plotters, auto-pilots, sonar, radar, AIS, VHF, transducers, charts, apps.
+- [SI-TEX](https://www.si-tex.com) - Plotters, sonar, AIS, radar, autopilot, sensors.
 
 ### NMEA Interfacing
 See [NMEA Wifi Options](https://sy-sea-jade.github.io/boatstuff/nmea_wifi) for comparison of available products.
@@ -169,6 +171,7 @@ See [NMEA Wifi Options](https://sy-sea-jade.github.io/boatstuff/nmea_wifi) for c
 
 ### Instruments
 
+- [ICOM](https://www.icomamerica.com/lineup/marine/) - Marine VHF, SSB, GMDSS, AIS, radar.
 - [LCJ Capteurs](https://lcjcapteurs.com/en/categorie-girouette-anemometres-capteur-vent/marine-en/) - Wind and weather instruments, StatMETEO wind data recording software.
 - [NASA Marine](https://www.nasamarine.com) - Instruments, monitors, AIS, displays.
 - [Safiery](https://safiery.com/marine-new/) - Digital switching, monitoring, Victron and NMEA integration.
@@ -205,11 +208,14 @@ See [NMEA Wifi Options](https://sy-sea-jade.github.io/boatstuff/nmea_wifi) for c
 - [Meltemus](https://www.meltemus.com/index.php/en/) - Navigation, weather and charts for Android, iOS, Windows, macOS and Linux. **qtVLM** weather and chart viewer free on some platforms.
 - [Maintenance ROS](https://maintenanceros.com) - Boat maintenance management.
 - [Navigatrix](https://navigatrix.net/nx/) - Custom Linux distribution for navigation. Free.
+- [Navimetrix](https://navimetrix.com) - Integrated navigation, weather, charting, routing for Android, Windows, iOS and macOS.
 - [Navstation](https://navstation.net) - **MacENCx64Integrate** plotting, navigation, charts and NMEA integration for macOS.
 - [NMEA 2000 Solutions](https://www.nmea2000solutions.com) - NMEA BridgeBuilder and NMEA Gateway packages, consultancy.
+- [Rose Point](https://www.rosepoint.com) - Navigation software, North America gazatteer, NMEA gateway.
 - [Sail Logger](https://saillogger.com) - Logbook for mobiles, with NMEA integration.
 - [SailTrack](https://www.angelnav.co.uk) - **AngelNav** plotter app for mobile and PC with charts and traditional charting techniques and NMEA integration.
 - [SavvyNavvy](https://www.savvy-navvy.com) - Plotter app for mobile with integrated weather, AIS, charting and NMEA integration.
+- [SeaIQ](https://seaiq.com) - Navigation for pilots, on Windows, macOS, iOS, iPadOS. Lower price version for recreational sailors.
 - [Vessel Vault](https://vesselvault.app) - Boat maintenance management.
 - [WilhemSK](https://www.wilhelmsk.com) - SignalK dashboard app for iPhone, iPad, macOS, Apple Watch and Apple TV.
 - [Zapfware](https://www.zapfware.de) - Mobile apps including *NMEARemote* dashboard, *NMEAConnect* bridging and ORC racing.
