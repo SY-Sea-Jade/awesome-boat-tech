@@ -143,6 +143,7 @@ See [NMEA Wifi Options](https://sy-sea-jade.github.io/boatstuff/nmea_wifi) for c
 - [Oceanav](https://ocenav.com) - Spanish vendor, with English info, of NMEA wifi gateways and auto-pilot remote control.
 - [Onwa](https://www.onwamarine.com/NMEA_Devices.html) - NMEA converters and multiplexers, and general marine electronics.
 - [OpenMarine](https://openmarine.net) - NMEA [MacArthur HAT](https://macarthur-hat-documentation.readthedocs.io)for Raspberry PI with OpenPlotter.
+- [Pitufino](https://pitufino.com) - Wifi gateway for NMEA0183 and NMEA2000 with optional Seatalk 1 and cloud access.
 - [Quark](https://www.quark-elec.com) - NMEA devices, sensors, internet gateways, gauges and remote monitoring.
 - [Rosuku](https://www.rusoku.com) - TouCAN Marine NMEA2000 USB adaptor.
 - [Shipmodul](https://shipmodul.com) - NMEA/Seatalk multiplexers and LAN gateways.
@@ -208,11 +209,13 @@ See [NMEA Wifi Options](https://sy-sea-jade.github.io/boatstuff/nmea_wifi) for c
 - [SavvyNavvy](https://www.savvy-navvy.com) - Plotter app for mobile with integrated weather, AIS, charting and NMEA integration.
 - [Vessel Vault](https://vesselvault.app) - Boat maintenance management.
 - [WilhemSK](https://www.wilhelmsk.com) - SignalK dashboard app for iPhone, iPad, macOS, Apple Watch and Apple TV.
+- [Zapfware](https://www.zapfware.de) - Mobile apps including *NMEARemote* dashboard, *NMEAConnect* bridging and ORC racing.
 
 ## Consultants
 
 - [Nautibus](https://nautibus.de) - NMEA2000 design, testing, installation. German and English.
 - [Seatech Systems](https://seatech.systems) - Marine electronics consultancy, with free advice articles on marine internet.
+- [Tweeds Marine](https://tweedsmarine.nz/) - New Zealand. Consultancy plus free articles, news and calculators online.
 
 ## Forums
 *All active as of 2026*
