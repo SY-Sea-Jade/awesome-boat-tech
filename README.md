@@ -148,7 +148,7 @@ See [NMEA Wifi Options](https://sy-sea-jade.github.io/boatstuff/nmea_wifi) for c
 - [Pitufino](https://pitufino.com) - Wifi gateway for NMEA0183 and NMEA2000 with optional Seatalk 1 and cloud access.
 - [Quark](https://www.quark-elec.com) - NMEA devices, sensors, internet gateways, gauges and remote monitoring.
 - [Rosuku](https://www.rusoku.com) - TouCAN Marine NMEA2000 USB adaptor.
-- [Shipmodul](https://shipmodul.com) - NMEA/Seatalk multiplexers and LAN gateways.
+- [Shipmodul](https://shipmodul.com) - NMEA/Seatalk multiplexers and LAN gateways, macOS and Windows configuration client ([workaround for linux](https://www.cricalix.net/2023/05/07/miniplex-and-linux/)).
 - [SK Pang Electronics](https://www.skpang.co.uk) - Raspberry Pi boards and HATs for CAN-Bus integration, NMEA2000 simulators, GPS modules, LCD displays.
 - [Tinley](https://www.tinleyelectronics.com/) - NMEA interfaces, sensors, multiplexers, converters.
 - [Veinland](https://veinland.net) - German vendor, with English info, of commercial NMEA multiplexers, embedded PCs and instruments.
