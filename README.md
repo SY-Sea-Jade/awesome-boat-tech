@@ -38,16 +38,18 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Pyssel](https://pysselilivet.blogspot.com) - Boat projects and news, including Home Assistant, OpenPlotter, ESP32.
 - [Seabits](https://seabits.com) - Pacific North West, Kristen 50 and Symbol Pilothouse motor yachts, SignalK, dashboards, Victron.
 - [SY Sea Jade Boatstuff](https://sy-sea-jade.github.io/boatstuff/) - Checklists, equipment choices and other tabular data.
-- [The Low Cost Sailor](https://www.thelowcostsailor.com) - Boat tech news and articles. English, French, Spanish.
+- [The Low Cost Sailor](https://www.thelowcostsailor.com) - Boat tech news and articles. English, French, Spanish. Also [Spanish](https://www.youtube.com/@TheLowCostSailor) and [English](https://www.youtube.com/@lowcostsailor) YouTube channels.
 - [Zapped Myself](https://zappedmyself.com/projects/nmea2000/) - NMEA2000, AIS, ESP32 projects.
 
 ## Vlogs
 - [Boating with the Baileys](https://www.youtube.com/@BoatingwiththeBaileys) -  Electrical and electronics projects on a 2000s Bavaria 36, including SignalK, KIP, Node-RED, OpenPlotter and SensESP.
+- [Boats and Bits](https://www.youtube.com/@boatsandbits) - DIY boat tech, Raymarine networking, electrics, 3D printing.
 - [Out Chasing Stars](https://www.youtube.com/@OutChasingStars) - OpenCPN and general boat electrics, electronics.
 - [Pacific Yacht Systems](https://www.youtube.com/@PacificYachtSystems) - Last active in 2023, large back catalogue of instructional videos on marine electrics, electronics and networking.
 - [Raspberry for Sailing](https://www.youtube.com/@Sir-Real) - OpenPlotter, SignalK, KIP projects on Raspberry Pi.
 - [SV Apres](https://www.youtube.com/playlist?list=PLqHa5JFKHBLwxeCuc6uaa5TzAXVeqTyiD) - OpenPlotter, NMEA2000 and general boat tech.
 - [The Florida Captain](https://www.youtube.com/@TheFloridaCaptain) - Open source boat network and apps.
+- [Tom Seahorse](https://www.youtube.com/@Tom-seahorse/videos) - UK. Catamaran. Raspberry Pi, OpenCPN, Home Assistant.
 
 ## Charts
 
@@ -144,7 +146,7 @@ See [NMEA Wifi Options](https://sy-sea-jade.github.io/boatstuff/nmea_wifi) for c
 - [HAT Labs](https://hatlabs.fi) - Open Source NMEA2000, ESP32 and RasPi hardware.
 - [Luissa 351](https://www.ebay.co.uk/usr/luissa.351) - NMEA gateways, multiplexers and Wifi integration. Portugal selling internationally through eBay.
 - [Matsutec](http://www.matsutec.cn) - Chinese supplier of NMEA hardware, testers, gateways plus AIS and auto-pilots.
-- [Nauti-Control](https://nauti-control.com) - Seatalk and NMEA2000 wifi bridges and remote controls.
+- [Nauti-Control](https://nauti-control.com) - Seatalk and NMEA2000 wifi bridges and remote controls. Also on [YouTube](https://www.youtube.com/@Nauti-Control).
 - [Oceanav](https://ocenav.com) - Spanish vendor, with English info, of NMEA wifi gateways and auto-pilot remote control.
 - [Onwa](https://www.onwamarine.com/NMEA_Devices.html) - NMEA converters and multiplexers, and general marine electronics.
 - [OpenMarine](https://openmarine.net) - NMEA [MacArthur HAT](https://macarthur-hat-documentation.readthedocs.io)for Raspberry PI with OpenPlotter.
@@ -169,11 +171,12 @@ See [NMEA Wifi Options](https://sy-sea-jade.github.io/boatstuff/nmea_wifi) for c
 - [Impulse](https://www.impulse-embedded.co.uk/solutions/industrial-computing-solutions/marine-and-subsea) - Marine PCs and displays.
 - [Marine Data Solutions](https://marinedatasolutions.com) - Satellite and mobile internet integration, *MDS Blender* marine router.
 
-### Instruments
+### Instruments and Autopilots
 
 - [ICOM](https://www.icomamerica.com/lineup/marine/) - Marine VHF, SSB, GMDSS, AIS, radar.
 - [LCJ Capteurs](https://lcjcapteurs.com/en/categorie-girouette-anemometres-capteur-vent/marine-en/) - Wind and weather instruments, StatMETEO wind data recording software.
 - [NASA Marine](https://www.nasamarine.com) - Instruments, monitors, AIS, displays.
+- [Nautinect](https://nautinect.com) - Open source hardware design and mobile app, controller with wheel or tiller drive.
 - [Safiery](https://safiery.com/marine-new/) - Digital switching, monitoring, Victron and NMEA integration.
 - [Veratron](https://veratron.com/pages/marine) - NMEA instruments, gateways and sensors, displays.
 
