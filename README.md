@@ -36,6 +36,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Nick Hayward](https://www.nick-hayward.co.uk/category/narrowboat/) - Narrowboat projects including Home Assistant, ESPHome, Victron.
 - [Ole W. Saastad](https://www.homelinux.no) - Raspberry Pi boat integration.
 - [Pyssel](https://pysselilivet.blogspot.com) - Boat projects and news, including Home Assistant, OpenPlotter, ESP32.
+- [Project Bob](https://www.projectbob.xyz) - Autonomous boat circumnavigation project.
 - [Seabits](https://seabits.com) - Pacific North West, Kristen 50 and Symbol Pilothouse motor yachts, SignalK, dashboards, Victron.
 - [SY Sea Jade Boatstuff](https://sy-sea-jade.github.io/boatstuff/) - Checklists, equipment choices and other tabular data.
 - [The Low Cost Sailor](https://www.thelowcostsailor.com) - Boat tech news and articles. English, French, Spanish. Also [Spanish](https://www.youtube.com/@TheLowCostSailor) and [English](https://www.youtube.com/@lowcostsailor) YouTube channels.
@@ -65,6 +66,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [BrineOMatic](https://github.com/hoeken/brineomatic) - Watermaker controller for ESP32.
 - [CAN Boat](https://github.com/canboat/canboat) - NMEA2000 and NMEA 0183 CLI utilities.
 - [d3kOS](https://github.com/SkipperDon/d3kOS) - Raspberry Pi based navigation and automation platform.
+- [DiscoTime](https://github.com/cr/discotime/) - Time and lat/long dashboard for long distance passages.
 - [gpsd](https://gpsd.gitlab.io/gpsd/index.html) - GPS and AIS daemon wrapping NMEA0183 in its own simpler format. C, Python. Ubiquitous.
 - [GWeatherRouting](https://gweatherrouting.org) - Navigation and automated routing, Python/GTK4.
 - [gypsy](https://gypsy.freedesktop.org) - Multiplexer for GPS NMEA data, daemon and C library, alternative to gpsd.
@@ -78,6 +80,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [PyGPSClient](https://github.com/semuconsulting/PyGPSClient) - Python GPS/GNSS testing, diagnostic and configuration, incl NMEA integration.
 - [PyPilot](https://pypilot.org) - Python based auto-pilot.
 - [ROB](https://github.com/OlivierLD/ROB) - Raspberry Pi On Board, Java and Python navigation utilities.
+- [Sailtrack](https://metisvela.github.io/sailtrack/) - Modular racing performance tracker using MQTT.
 - [SignalK](https://signalk.org) - Node.js pluggable framework for boat data distribution and analysis.
 - [Smart Boat Innovations](https://smartboatinnovations.com) - Videos and articles on building a Raspberry Pi and Home Assistant based smart boat.
 - [TwoCan](https://github.com/TwoCanPlugIn/TwoCanPlugIn) - NMEA2000 integration for OpenCPN.
